@@ -1,0 +1,31 @@
+NATO-LAB     HOME ABOUT SERVICES CONTACT
+
+We design and build great websites that empower people and drive value.
+In accordance with the user needs, we design and implement powerful websites
+with great UI/UX.
+
+ABOUT
+We are NATO-LAB. It is a startup company based in Addis Ababa, Ethiopia.
+A team filled with passionate programmers, developers, cybersecurity engineers
+and so many professionals with tremendous expertises.
+We founded and Launched NATO-LAB on July 12, 2021 G.C. Since then, we are
+working on impressive web designs and website development. We design and 
+build websites that meets the user's requirements.
+
+
+
+
+
+SERVICES
+//has 3 cards
+1. Provide attractive UI/UX designs
+2. Develop websites with great User Interface lookup.
+3. Maintain and debug Websites
+
+PROJECTS
+1. Chair company
+2. 
+
+CONTACT
+Get in touch with us.
+
